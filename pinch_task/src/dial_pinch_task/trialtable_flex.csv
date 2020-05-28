@@ -1,0 +1,109 @@
+t ,a   ,dirtext              ,img              ,fings,static,model      ,colltype,timing,angle,invforce,tsX ,tsY ,tsZ ,sX ,sY ,sZ ,rX,rY,rZ
+1 ,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+4 ,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+5 ,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+6 ,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+7 ,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+8 ,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+9 ,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+11,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+12,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+14,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+15,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+16,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+17,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+18,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+19,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+20,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+21,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+23,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+24,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+25,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+26,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+27,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+28,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+29,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+30,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+31,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+32,ptp1,Thumb-Index Dial (p) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+33,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+34,ptp2,Thumb-Middle Dial (p),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+35,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+36,tri,Tripod Dial (p)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+1 ,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+4 ,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+5 ,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+6 ,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+7 ,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+8 ,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+9 ,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+11,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+12,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+14,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+15,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+16,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+17,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+18,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+19,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+20,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+21,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+23,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+24,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+25,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+26,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+27,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+28,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+29,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+30,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+31,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+32,ptp1,Thumb-Index Dial (S) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+33,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+34,ptp2,Thumb-Middle Dial (S),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 20  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+35,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+36,tri,Tripod Dial (S)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 20  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+1 ,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+4 ,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+5 ,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+6 ,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+7 ,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+8 ,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+9 ,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+11,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+12,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+14,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+15,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+16,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+17,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+18,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+19,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+20,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+21,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+23,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+24,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+25,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+26,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+27,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+28,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+29,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+30,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+31,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+32,ptp1,Thumb-Index Dial (L) ,images/p2p1.jpg  ,1 2  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+33,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    ,-45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+34,ptp2,Thumb-Middle Dial (L),images/p2p2.jpg  ,1 3  ,False ,models/knob,cylinder,20    , 45  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 ,0
+35,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    ,-45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0
+36,tri,Tripod Dial (L)       ,images/tripod.jpg,1 2 3,False ,models/knob,cylinder,20    , 45  ,0.2     ,-0.6,  -1,-0.4,0.8,0.8,0.8,0 ,0 ,0

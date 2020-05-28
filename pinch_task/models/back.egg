@@ -1,0 +1,133 @@
+<CoordinateSystem> { Z-up } 
+<Material> Material.003 {
+  <Scalar> diffr { 0.133030 }
+  <Scalar> diffg { 0.320000 }
+  <Scalar> diffb { 0.720000 }
+  <Scalar> specr { 0.500000 }
+  <Scalar> specg { 0.500000 }
+  <Scalar> specb { 0.500000 }
+  <Scalar> shininess { 12.5 }
+  <Scalar> ambr { 1.000000 }
+  <Scalar> ambg { 1.000000 }
+  <Scalar> ambb { 1.000000 }
+  <Scalar> emitr { 0.000000 }
+  <Scalar> emitg { 0.000000 }
+  <Scalar> emitb { 0.000000 }
+}
+
+<Material> Material.001 {
+  <Scalar> diffr { 0.080000 }
+  <Scalar> diffg { 0.080000 }
+  <Scalar> diffb { 0.640000 }
+  <Scalar> specr { 0.500000 }
+  <Scalar> specg { 0.500000 }
+  <Scalar> specb { 0.500000 }
+  <Scalar> shininess { 12.5 }
+  <Scalar> ambr { 1.000000 }
+  <Scalar> ambg { 1.000000 }
+  <Scalar> ambb { 1.000000 }
+  <Scalar> emitr { 0.000000 }
+  <Scalar> emitg { 0.000000 }
+  <Scalar> emitb { 0.000000 }
+}
+
+<Material> Material.002 {
+  <Scalar> diffr { 0.133030 }
+  <Scalar> diffg { 0.320000 }
+  <Scalar> diffb { 0.720000 }
+  <Scalar> specr { 0.500000 }
+  <Scalar> specg { 0.500000 }
+  <Scalar> specb { 0.500000 }
+  <Scalar> shininess { 12.5 }
+  <Scalar> ambr { 1.000000 }
+  <Scalar> ambg { 1.000000 }
+  <Scalar> ambb { 1.000000 }
+  <Scalar> emitr { 0.000000 }
+  <Scalar> emitg { 0.000000 }
+  <Scalar> emitb { 0.000000 }
+}
+
+  <Group> Floor {
+    <Transform> {
+      <Matrix4> {
+        1.0 0.0 0.0 0.0 
+        0.0 1.0 0.0 0.0 
+        0.0 0.0 1.0 0.0 
+        0.0 0.0 -1.0 1.0 
+      }
+    }
+    
+    <VertexPool> Floor {
+    
+      <Vertex> 0 {-1.000000 -1.000000 -1.000000
+      }
+      <Vertex> 1 {1.000000 -1.000000 -1.000000
+      }
+      <Vertex> 2 {1.000000 1.000000 -1.000000
+      }
+      <Vertex> 3 {-1.000000 1.000000 -1.000000
+      }}
+    
+    
+    <Polygon> {
+      <MRef> { Material.001 }
+      <Normal> {0.000000 0.000000 1.000000}
+      <VertexRef> { 0 1 2 3 <Ref> { Floor }} 
+    }
+  }
+  <Group> RWall {
+    <Transform> {
+      <Matrix4> {
+        -4.371138828673793e-08 0.0 1.0 0.0 
+        0.0 1.0 0.0 0.0 
+        -1.0 0.0 -4.371138828673793e-08 0.0 
+        1.0 0.0 0.0 1.0 
+      }
+    }
+    
+    <VertexPool> RWall {
+    
+      <Vertex> 0 {1.000000 -1.000000 -1.000000
+      }
+      <Vertex> 1 {1.000000 -1.000000 1.000000
+      }
+      <Vertex> 2 {1.000000 1.000000 1.000000
+      }
+      <Vertex> 3 {1.000000 1.000000 -1.000000
+      }}
+    
+    
+    <Polygon> {
+      <MRef> { Material.002 }
+      <Normal> {-1.000000 0.000000 0.000000}
+      <VertexRef> { 0 1 2 3 <Ref> { RWall }} 
+    }
+  }
+  <Group> LWall {
+    <Transform> {
+      <Matrix4> {
+        1.0 0.0 0.0 0.0 
+        0.0 -4.371138828673793e-08 1.0 0.0 
+        0.0 -1.0 -4.371138828673793e-08 0.0 
+        0.0 1.0 0.0 1.0 
+      }
+    }
+    
+    <VertexPool> LWall {
+    
+      <Vertex> 0 {-1.000000 1.000000 -1.000000
+      }
+      <Vertex> 1 {1.000000 1.000000 -1.000000
+      }
+      <Vertex> 2 {1.000000 1.000000 1.000000
+      }
+      <Vertex> 3 {-1.000000 1.000000 1.000000
+      }}
+    
+    
+    <Polygon> {
+      <MRef> { Material.003 }
+      <Normal> {0.000000 -1.000000 -0.000000}
+      <VertexRef> { 0 1 2 3 <Ref> { LWall }} 
+    }
+  }

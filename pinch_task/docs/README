@@ -1,0 +1,83 @@
+Package components for Pinch task:
+
+1. subj_info.py
+- brings up a GUI for subject info
+- GUI for hand measures
+- saving subject and device data
+
+2. setup.py
+- class to set the hand at neutral posture and collect measures
+- force bars visual display for positioning each finger into the cups
+- during setup the bars should not exceed 100% and after setup the bars should not exceed 10%
+
+3. exp.py
+- main class for Individuation task
+
+====================================================================
+The following are helper functions:
+====================================================================
+6. hand.py
+- class interfacing with the HAND device(updated toon version 12)
+- currently only set up for Right Hand
+
+8. machine.py
+- class that handles state transitions for hand setup and all pinch tasks
+
+9. timers.py
+- class that handles timers
+
+10. setup_hand.py
+- class that handles execution of hand setup step
+
+11. pinch_task.py (under folders pinch_task, tunnel_pinch_task, dial_pinch_task)
+- class that handles actual pinch tasks for each condition
+
+=====================================================================
+Data structure
+=====================================================================
+all_pinch_task > data
+-Subject data organised under each experiment folder 
+
+subject folder > session folder > wrist position > hand
+- <subj_name>_log.yml: subject information
+- setup folder 
+        - one setup folder for each trial with data broken into bits of 30 seconds 
+- B0-B*
+        - each block of pinch task saved in csv format
+        - B0 is practice block for each experiment
+
+=======================================================================
+Naming convention:
+=======================================================================
+
+subj_name: concatenation of <project name> and <subject number>,
+           e.g. 1st subject for Pinch will be "Pin001"
+
+session_name: concatenation of
+              <session type> (A, T, SA, ST for Assessment, Training, w/out or w/ Stimulation)
+              <session number> (start from 1)
+              e.g. A1
+
+setup_files: Setup_<subj_id>_<session_name>_<hand>_<counter>
+
+Block files of pinch task: <subj_id>_<session_name>_<hand>_<trial_type>_<trial_number>.csv
+
+=======================================================================
+running procedure
+=======================================================================
+install python & environment(version 3.6 installed on the lab laptop- environment name py36)
+
+1) At “Start” menu, find “Anaconda Prompt”.  Start the prompt
+
+2) At the command prompt, activates python environment:
+
+   > activate py36
+
+3) cd to all_pinch_task folder: 
+   > cd  C:\Users\Hand Therapist\python\all_pinch_task
+
+4) Run gui
+   > python gui.py
+
+5) Follow prompts
+	- most important fields to fill out before running task is Mount_Length and Mount_Angle

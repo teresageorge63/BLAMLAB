@@ -1,0 +1,121 @@
+t ,a,   dirtext                 ,img              ,fings,static,model        ,colltype,timing,angles    ,width,tsX ,tsY ,tsZ ,sX ,sY ,sZ ,rX,rY,rZ
+1 ,ptp1,Thumb-Index pinch (p)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp2,Thumb-Middle pinch (p)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp3,Thumb-Ring pinch (p)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+4 ,tri ,Tripod pinch (p)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+5 ,ptp1,Thumb-Index pinch (p)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+6 ,ptp2,Thumb-Middle pinch (p)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+7 ,ptp3,Thumb-Ring pinch (p)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+8 ,tri ,Tripod pinch (p)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+9 ,ptp1,Thumb-Index pinch (p)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle pinch (p)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+11,ptp3,Thumb-Ring pinch (p)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+12,tri ,Tripod pinch (p)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index pinch (p)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+14,ptp2,Thumb-Middle pinch (p)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+15,ptp3,Thumb-Ring pinch (p)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+16,tri ,Tripod pinch (p)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+17,ptp1,Thumb-Index pinch (p)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+18,ptp2,Thumb-Middle pinch (p)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+19,ptp3,Thumb-Ring pinch (p)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+20,tri ,Tripod pinch (p)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+21,ptp1,Thumb-Index pinch (p)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle pinch (p)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+23,ptp3,Thumb-Ring pinch (p)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+24,tri ,Tripod pinch (p)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+1 ,ptp1,Thumb-Index pinch (L)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp2,Thumb-Middle pinch (L)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp3,Thumb-Ring pinch (L)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+4 ,tri ,Tripod pinch (L)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+5 ,ptp1,Thumb-Index pinch (L)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+6 ,ptp2,Thumb-Middle pinch (L)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+7 ,ptp3,Thumb-Ring pinch (L)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+8 ,tri ,Tripod pinch (L)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+9 ,ptp1,Thumb-Index pinch (L)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle pinch (L)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+11,ptp3,Thumb-Ring pinch (L)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+12,tri ,Tripod pinch (L)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index pinch (L)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+14,ptp2,Thumb-Middle pinch (L)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+15,ptp3,Thumb-Ring pinch (L)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+16,tri ,Tripod pinch (L)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+17,ptp1,Thumb-Index pinch (L)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+18,ptp2,Thumb-Middle pinch (L)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+19,ptp3,Thumb-Ring pinch (L)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+20,tri ,Tripod pinch (L)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+21,ptp1,Thumb-Index pinch (L)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle pinch (L)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+23,ptp3,Thumb-Ring pinch (L)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+24,tri ,Tripod pinch (L)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+1 ,ptp1,Thumb-Index pinch (L+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp2,Thumb-Middle pinch (L+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp3,Thumb-Ring pinch (L+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+4 ,tri ,Tripod pinch (L+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+5 ,ptp1,Thumb-Index pinch (L+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+6 ,ptp2,Thumb-Middle pinch (L+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+7 ,ptp3,Thumb-Ring pinch (L+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+8 ,tri ,Tripod pinch (L+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+9 ,ptp1,Thumb-Index pinch (L+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle pinch (L+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+11,ptp3,Thumb-Ring pinch (L+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+12,tri ,Tripod pinch (L+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index pinch (L+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+14,ptp2,Thumb-Middle pinch (L+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+15,ptp3,Thumb-Ring pinch (L+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+16,tri ,Tripod pinch (L+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+17,ptp1,Thumb-Index pinch (L+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+18,ptp2,Thumb-Middle pinch (L+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+19,ptp3,Thumb-Ring pinch (L+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+20,tri ,Tripod pinch (L+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+21,ptp1,Thumb-Index pinch (L+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.6  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle pinch (L+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.6  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+23,ptp3,Thumb-Ring pinch (L+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.6  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+24,tri ,Tripod pinch (L+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.6  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+1 ,ptp1,Thumb-Index pinch (S)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.4  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp2,Thumb-Middle pinch (S)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.4  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp3,Thumb-Ring pinch (S)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.4  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+4 ,tri ,Tripod pinch (S)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+5 ,ptp1,Thumb-Index pinch (S)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.4  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+6 ,ptp2,Thumb-Middle pinch (S)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.4  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+7 ,ptp3,Thumb-Ring pinch (S)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.4  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+8 ,tri ,Tripod pinch (S)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+9 ,ptp1,Thumb-Index pinch (S)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.4  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle pinch (S)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.4  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+11,ptp3,Thumb-Ring pinch (S)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.4  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+12,tri ,Tripod pinch (S)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index pinch (S)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.4  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+14,ptp2,Thumb-Middle pinch (S)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.4  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+15,ptp3,Thumb-Ring pinch (S)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.4  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+16,tri ,Tripod pinch (S)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+17,ptp1,Thumb-Index pinch (S)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.4  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+18,ptp2,Thumb-Middle pinch (S)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.4  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+19,ptp3,Thumb-Ring pinch (S)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.4  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+20,tri ,Tripod pinch (S)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+21,ptp1,Thumb-Index pinch (S)   ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  ,20    ,75 255    ,0.4  , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle pinch (S)  ,images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  ,20    ,55 235    ,0.4  , 0.5,-0.2,-0.8,0.5,0.5,0.5,0 ,0 ,0
+23,ptp3,Thumb-Ring pinch (S)    ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  ,20    ,45 225    ,0.4  , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 ,0
+24,tri ,Tripod pinch (S)        ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  ,20    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+1 ,ptp1,Thumb-Index pinch (S+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.4  , 0.4,-0.1,-0.2,0.5,0.5,0.5,0 ,0 ,0
+2 ,ptp2,Thumb-Middle pinch (S+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.4  , 0.5,-0.2,-0.7,0.5,0.5,0.5,0 ,0 ,0
+3 ,ptp3,Thumb-Ring pinch (S+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.4  , 0.0, 0.0,-0.1,0.5,0.5,0.5,0 ,0 ,0
+4 ,tri ,Tripod pinch (S+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+5 ,ptp1,Thumb-Index pinch (S+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.4  , 0.4,-0.1,-0.2,0.5,0.5,0.5,0 ,0 ,0
+6 ,ptp2,Thumb-Middle pinch (S+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.4  , 0.5,-0.2,-0.7,0.5,0.5,0.5,0 ,0 ,0
+7 ,ptp3,Thumb-Ring pinch (S+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.4  , 0.0, 0.0,-0.1,0.5,0.5,0.5,0 ,0 ,0
+8 ,tri ,Tripod pinch (S+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+9 ,ptp1,Thumb-Index pinch (S+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.4  , 0.4,-0.1,-0.2,0.5,0.5,0.5,0 ,0 ,0
+10,ptp2,Thumb-Middle pinch (S+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.4  , 0.5,-0.2,-0.7,0.5,0.5,0.5,0 ,0 ,0
+11,ptp3,Thumb-Ring pinch (S+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.4  , 0.0, 0.0,-0.1,0.5,0.5,0.5,0 ,0 ,0
+12,tri ,Tripod pinch (S+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+13,ptp1,Thumb-Index pinch (S+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.4  , 0.4,-0.1,-0.2,0.5,0.5,0.5,0 ,0 ,0
+14,ptp2,Thumb-Middle pinch (S+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.4  , 0.5,-0.2,-0.7,0.5,0.5,0.5,0 ,0 ,0
+15,ptp3,Thumb-Ring pinch (S+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.4  , 0.0, 0.0,-0.1,0.5,0.5,0.5,0 ,0 ,0
+16,tri ,Tripod pinch (S+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+17,ptp1,Thumb-Index pinch (S+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.4  , 0.4,-0.1,-0.2,0.5,0.5,0.5,0 ,0 ,0
+18,ptp2,Thumb-Middle pinch (S+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.4  , 0.5,-0.2,-0.7,0.5,0.5,0.5,0 ,0 ,0
+19,ptp3,Thumb-Ring pinch (S+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.4  , 0.0, 0.0,-0.1,0.5,0.5,0.5,0 ,0 ,0
+20,tri ,Tripod pinch (S+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0
+21,ptp1,Thumb-Index pinch (S+t) ,images/p2p1.jpg  ,1 2  ,True  ,models/target,sphere  , 1    ,75 255    ,0.4  , 0.4,-0.1,-0.2,0.5,0.5,0.5,0 ,0 ,0
+22,ptp2,Thumb-Middle pinch (S+t),images/p2p2.jpg  ,1 3  ,True  ,models/target,sphere  , 1    ,55 235    ,0.4  , 0.5,-0.2,-0.7,0.5,0.5,0.5,0 ,0 ,0
+23,ptp3,Thumb-Ring pinch (S+t)  ,images/p2p3.jpg  ,1 4  ,True  ,models/target,sphere  , 1    ,45 225    ,0.4  , 0.0, 0.0,-0.1,0.5,0.5,0.5,0 ,0 ,0
+24,tri ,Tripod pinch (S+t)      ,images/tripod.jpg,1 2 3,True  ,models/target,sphere  , 1    ,20 140 260,0.4  ,-0.6, 0.0,-0.6,0.8,0.8,0.8,0 ,0 ,0

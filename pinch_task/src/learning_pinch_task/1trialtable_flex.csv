@@ -1,0 +1,114 @@
+t ,a     ,dirtext                 ,img               ,fings    ,static,model          ,colltype,timing,angle,invforce,tsX ,tsY ,tsZ ,sX ,sY ,sZ ,rX,rY,rZ
+1 ,ptp1  ,Thumb-Index pinch (p)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.4,-0.1, 0.0,3.0,3.0,3.0,0 ,0 , 0
+2 ,ptp2  ,Thumb-Middle pinch (p)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+3 ,ptp3  ,Thumb-Ring pinch (p)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+4 ,tri   ,Tripod grasp (p)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+5 ,ptp1  ,Thumb-Index pinch (p)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+7 ,ptp2  ,Thumb-Middle pinch (p)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+8 ,ptp3  ,Thumb-Ring pinch (p)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+9 ,tri   ,Tripod grasp (p)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+11,ptp2  ,Thumb-Middle pinch (p)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+12,ptp3  ,Thumb-Ring pinch (p)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+13,tri   ,Tripod grasp (p)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+14,ptp1  ,Thumb-Index pinch (p)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+15,ptp2  ,Thumb-Middle pinch (p)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+16,ptp3  ,Thumb-Ring pinch (p)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+17,tri   ,Tripod grasp (p)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+18,ptp1  ,Thumb-Index pinch (p)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+19,ptp2  ,Thumb-Middle pinch (p)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+20,ptp3  ,Thumb-Ring pinch (p)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+21,tri   ,Tripod grasp (p)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+22,ptp1  ,Thumb-Index pinch (p)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+23,ptp2  ,Thumb-Middle pinch (p)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+24,ptp3  ,Thumb-Ring pinch (p)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+25,tri   ,Tripod grasp (p)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+1 ,ptp1  ,Thumb-Index pinch (t)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+2 ,ptp2  ,Thumb-Middle pinch (t)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+3 ,ptp3  ,Thumb-Ring pinch (t)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+4 ,tri   ,Tripod grasp (t)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+5 ,sphere,Spherical grasp (t)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,0    ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+6 ,ptp1  ,Thumb-Index pinch (t)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+7 ,ptp2  ,Thumb-Middle pinch (t)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+8 ,ptp3  ,Thumb-Ring pinch (t)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+9 ,tri   ,Tripod grasp (t)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+10,sphere,Spherical grasp (t)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,0    ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+11,ptp1  ,Thumb-Index pinch (t)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+12,ptp2  ,Thumb-Middle pinch (t)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+13,ptp3  ,Thumb-Ring pinch (t)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+14,tri   ,Tripod grasp (t)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+15,sphere,Spherical grasp (t)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,0    ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+16,ptp1  ,Thumb-Index pinch (t)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+17,ptp2  ,Thumb-Middle pinch (t)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+18,ptp3  ,Thumb-Ring pinch (t)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+19,tri   ,Tripod grasp (t)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+20,sphere,Spherical grasp (t)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,0    ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+21,ptp1  ,Thumb-Index pinch (t)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+22,ptp2  ,Thumb-Middle pinch (t)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+23,ptp3  ,Thumb-Ring pinch (t)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+24,tri   ,Tripod grasp (t)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+25,sphere,Spherical grasp (t)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,0    ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+26,ptp1  ,Thumb-Index pinch (t)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+27,ptp2  ,Thumb-Middle pinch (t)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+28,ptp3  ,Thumb-Ring pinch (t)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+29,tri   ,Tripod grasp (t)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,0    ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+30,sphere,Spherical grasp (t)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,0    ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+1 ,ptp1  ,Thumb-Index pinch (s)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+2 ,ptp2  ,Thumb-Middle pinch (s)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+3 ,ptp3  ,Thumb-Ring pinch (s)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+4 ,tri   ,Tripod grasp (s)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+5 ,sphere,Spherical grasp (s)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,20    ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+6 ,ptp1  ,Thumb-Index pinch (s)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+7 ,ptp2  ,Thumb-Middle pinch (s)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+8 ,ptp3  ,Thumb-Ring pinch (s)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+9 ,tri   ,Tripod grasp (s)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+10,sphere,Spherical grasp (s)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,20    ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+11,ptp1  ,Thumb-Index pinch (s)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+12,ptp2  ,Thumb-Middle pinch (s)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+13,ptp3  ,Thumb-Ring pinch (s)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+14,tri   ,Tripod grasp (s)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+15,sphere,Spherical grasp (s)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,20    ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+16,ptp1  ,Thumb-Index pinch (s)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+17,ptp2  ,Thumb-Middle pinch (s)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+18,ptp3  ,Thumb-Ring pinch (s)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+19,tri   ,Tripod grasp (s)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+20,sphere,Spherical grasp (s)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,20    ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+21,ptp1  ,Thumb-Index pinch (s)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+22,ptp2  ,Thumb-Middle pinch (s)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+23,ptp3  ,Thumb-Ring pinch (s)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+24,tri   ,Tripod grasp (s)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+25,sphere,Spherical grasp (s)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,20    ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+26,ptp1  ,Thumb-Index pinch (s)   ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+27,ptp2  ,Thumb-Middle pinch (s)  ,images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+28,ptp3  ,Thumb-Ring pinch (s)    ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+29,tri   ,Tripod grasp (s)        ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,20    ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+30,sphere,Spherical grasp (s)     ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,20    ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+1 ,ptp1  ,Thumb-Index pinch (t+s) ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+2 ,ptp2  ,Thumb-Middle pinch (t+s),images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+3 ,ptp3  ,Thumb-Ring pinch (t+s)  ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+4 ,tri   ,Tripod grasp (t+s)      ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+5 ,sphere,Spherical grasp (t+s)   ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+6 ,ptp1  ,Thumb-Index pinch (t+s) ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+7 ,ptp2  ,Thumb-Middle pinch (t+s),images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+8 ,ptp3  ,Thumb-Ring pinch (t+s)  ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+9 ,tri   ,Tripod grasp (t+s)      ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+10,sphere,Spherical grasp (t+s)   ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+11,ptp1  ,Thumb-Index pinch (t+s) ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+12,ptp2  ,Thumb-Middle pinch (t+s),images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+13,ptp3  ,Thumb-Ring pinch (t+s)  ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+14,tri   ,Tripod grasp (t+s)      ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+15,sphere,Spherical grasp (t+s)   ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+16,ptp1  ,Thumb-Index pinch (t+s) ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+17,ptp2  ,Thumb-Middle pinch (t+s),images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+18,ptp3  ,Thumb-Ring pinch (t+s)  ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+19,tri   ,Tripod grasp (t+s)      ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+20,sphere,Spherical grasp (t+s)   ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+21,ptp1  ,Thumb-Index pinch (t+s) ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+22,ptp2  ,Thumb-Middle pinch (t+s),images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+23,ptp3  ,Thumb-Ring pinch (t+s)  ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+24,tri   ,Tripod grasp (t+s)      ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+25,sphere,Spherical grasp (t+s)   ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0
+26,ptp1  ,Thumb-Index pinch (t+s) ,images/p2p1.jpg   ,1 2      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.4,-0.1, 0.0,0.5,0.5,0.5,0 ,0 , 0
+27,ptp2  ,Thumb-Middle pinch (t+s),images/p2p2.jpg   ,1 3      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.5,-0.2,-0.6,0.5,0.5,0.5,0 ,0 , 0
+28,ptp3  ,Thumb-Ring pinch (t+s)  ,images/p2p3.jpg   ,1 4      ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , 0.0, 0.0, 0.0,0.5,0.5,0.5,0 ,0 , 0
+29,tri   ,Tripod grasp (t+s)      ,images/tripod.jpg ,1 2 3    ,True  ,models/target  ,sphere  ,1     ,120  ,0.2     , -0.6,0.0,-0.6,0.8,0.8,0.8,0 ,0 , 0
+30,sphere,Spherical grasp (t+s)   ,images/jargrip.jpg,1 2 3 4 5,True  ,models/Cylinder,cylinder,2     ,120  ,0.2     , 0.0,-0.5,-0.5,2,2,0.5,0 ,0 , 0

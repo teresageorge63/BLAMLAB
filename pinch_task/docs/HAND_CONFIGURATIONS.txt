@@ -1,0 +1,17 @@
+Subj_ID Pin001, Pin002, Pin004 use old configuration
+            ang1 = math.radians(180+float(doc["Thumb"]["DEVICE Mount angle"]))
+            ang2 = math.radians(180+float(doc["Index"]["DEVICE Mount angle"]))
+            ang3 = math.radians(180+float(doc["Middle"]["DEVICE Mount angle"]))
+            ang4 = math.radians(180+float(doc["Ring"]["DEVICE Mount angle"]))
+            ang5 = math.radians(180+float(doc["Pinky"]["DEVICE Mount angle"]))
+Subj_ID Pin003, Pin005 use new configuration
+            ang1 = math.radians(180+float(doc["Thumb"]["DEVICE Mount angle"]))
+            ang2 = math.radians(float(doc["Index"]["DEVICE Mount angle"]))
+            ang3 = math.radians(float(doc["Middle"]["DEVICE Mount angle"]))
+            ang4 = math.radians(float(doc["Ring"]["DEVICE Mount angle"]))
+            ang5 = math.radians(float(doc["Pinky"]["DEVICE Mount angle"]))
+
+The angle code is present in both handpos.py during experiment setup and in the analysis code. Note that the only difference is that 180 was added to all angles in the old method, whereas it is only added to the thumb angle in the new method.
+
+NOTE: width column in final_targets.csv is named inv_force for subj_id Pin001-Pin005 in exp2
+      targets were not adjusted for subj_id Pin001-Pin005 in exp_2-exp_3

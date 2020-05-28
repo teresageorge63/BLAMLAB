@@ -89,7 +89,7 @@ void loop() {
     
     vib_duration = 2; //default 2 seconds
     Serial.write(inputArray,mag_length);
-    if (inputArray[2] == 1) {
+    if (inputArray[1] == 1) {
     
       activateMotor((int)inputArray[1]);
      
@@ -100,9 +100,10 @@ void loop() {
       // Timestamp in UNIX time for start of vibration
       //vib_timer[inputArray[1]] = millis();
     }
-    else if (inputArray[2] == 0 ){
-      
-    
+    else if (inputArray[1] == 2){
+      modulateMotor((int)inputArray[1],(int)inputArray[2]);
+    }
+    else if (inputArray[1] == 3 ){  
      disableMotor((int)inputArray[1]);
     }
     //digitalWrite(pinArray[inputNum-1], LOW);
@@ -124,6 +125,12 @@ onMotor = true;
 digitalWrite(ledMain,HIGH);
   
 }
+
+//Adjusts level of intensity of motor
+void modulateMotor(int f, int intensity){
+  analogWrite(pinArray[f],intensity);
+}
+
 // Turns off all motors by setting intensities to zero
 void disableMotor(int f){
 analogWrite(pinArray[f],0);
